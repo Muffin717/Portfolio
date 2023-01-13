@@ -48,5 +48,11 @@ layout: default
 <br>
 
 ## My Skills
+### You can see my skill levels with this chart that indicated my skill levels according to my experiencde and knowlede.
 
 ![Skills](skills.png)
+
+### My Contacts:
+- Discord: muffin.#2907
+- Github: Muffin717
+
