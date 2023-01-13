@@ -48,7 +48,7 @@ layout: default
 <br>
 
 ## My Skills
-### You can see my skill levels with this chart that indicated my skill levels according to my experiencde and knowlede.
+### You can see my skill levels with this chart that indicated my skill levels according to my experience and knowledge.
 
 ![Skills](skills.png)
 
