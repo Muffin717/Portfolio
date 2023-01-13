@@ -4,11 +4,11 @@ permalink : /
 layout: default
 ---
 
-# <p align="center">Muffin
-</p>
+# Muffin
 
-## <p align="center">Who I am, and about me
-</p>
+
+## Who I am, and about me
+
 
 
 ### I am a Discord bot developer (as a junior software engineer) and I do programming to improve myself, and it is my hobby.
@@ -49,4 +49,4 @@ layout: default
 
 ## My Skills
 
-![Skills](skills50.png)
+![Skills](skills.png)
