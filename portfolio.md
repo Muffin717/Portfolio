@@ -1,0 +1,52 @@
+---
+title: "About me"
+permalink : /
+layout: default
+---
+
+# <p align="center">Muffin
+</p>
+
+## <p align="center">Who I am, and about me
+</p>
+
+
+### I am a Discord bot developer (as a junior software engineer) and I do programming to improve myself, and it is my hobby.
+
+
+<br>
+
+## Which languages do I know or am learning?
+### I mainly work with JavaScript, but here are the languages and libraries I use:
+
+<br>
+
+### Languages and libraries I am using:
+
+<br>
+
+- JavaScript
+- [Discord.js](https://discord.js.org)
+- [Node.js](https://nodejs.org/)
+
+<br>
+
+### Languages I am learning:
+
+- Java
+- C++
+
+
+
+<br>
+
+## What are my projects and what am I working on?
+### I have many completed or done projects like Discord bots and much more, but I currently have one Discord bot project, that is mostly done, but I am still working on it and improving it.
+
+### You can check my bot, <span style="color:#c8a47c">**Delight**</span> [here](https://sites.google.com/view/delightbot/)
+
+<br>
+
+## My Skills
+
+![Skills](skills50.png)
