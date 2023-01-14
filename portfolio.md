@@ -6,6 +6,7 @@ layout: default
 
 # Muffin
 
+![a](pfp.png)
 
 ## Who I am, and about me
 
